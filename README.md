@@ -1,1 +1,2 @@
-# Project-OOP-C-
+# Rifqi Arrafif Hakim
+# XI PPLG 3

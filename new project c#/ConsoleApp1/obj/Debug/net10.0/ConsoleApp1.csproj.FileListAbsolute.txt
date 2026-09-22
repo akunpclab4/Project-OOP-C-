@@ -1,0 +1,14 @@
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\Rifqi XI PPLG 3\PBO\new project c#\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
